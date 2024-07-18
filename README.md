@@ -1,2 +1,0 @@
-# DDPM
-Diffusion Probabilistic Models
